@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Linus from Kilifi<br><br>- 🔭 I’m working as Software Dev<br>- 📚 I'm currently learning dart and flutter</p>
+<p align="left">I'm Linus from Kenya<br><br>- 🔭 I’m working as Software Dev<br>- 📚 I'm currently learning dart and flutter</p>
 
 ###
 
@@ -70,6 +70,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Welcome and feel free to get in touch with us, through our social media platforms or email</p>
 
 ###
