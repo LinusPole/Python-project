@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Linus from Kenya<br><br>- 🔭 I’m working as Software Dev<br>- 📚 I'm currently learning dart and flutter</p>
+<p align="left">I'm Linus from Kenya<br><br>- 🔭 I’m working as Software Dev<br>- 📚 I'm currently learning Python</p>
 
 ###
 
